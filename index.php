@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>ubutia | Home</title>
+        <title>ubutia | Home - <?php echo date( "d.m.y H:i" );?></title>
         <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo-icon.png"/>
 
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
